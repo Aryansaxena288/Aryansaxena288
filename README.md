@@ -31,13 +31,7 @@
 
 #### Github Stats
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryansaxena288&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/Aryansaxena288/github-readme-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansaxena288&theme=algolia&title_color=#abdbe3
-&hide_border=Flase" width="320px" data-canonical->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryansaxena288&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-JOS-RE&style=flat-square&color=232323">
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryansaxena288&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/Aryansaxena288/github-readme-stats)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansaxena288&theme=algolia&title_color=#abdbe3&hide_border=true" width="320px" data-canonical->[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryansaxena288&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img align="right" src="https://komarev.com/ghpvc/?username=your-github-JOS-RE&style=flat-square&color=232323">
 
 ![GitHub followers](https://img.shields.io/github/followers/Aryansaxena288?style=social)![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Aryansaxena288/Sketchmaking/main)
 ### You can connect with me from **_here_** 📧:
