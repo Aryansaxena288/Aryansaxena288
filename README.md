@@ -31,7 +31,8 @@
 
 #### Github Stats
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryansaxena288&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/Aryansaxena288/Aryansaxena288)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansaxena288&layout=compact)](https://github.com/Aryansaxena288/Aryansaxena288)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryansaxena288&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/Aryansaxena288/Aryansaxena288)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansaxena288&layout=compact&show_icons=true&theme=algolia)](https://github.com/Aryansaxena288/Aryansaxena288)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryansaxena288&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub followers](https://img.shields.io/github/followers/Aryansaxena288?style=social)![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Aryansaxena288/Sketchmaking/main)
