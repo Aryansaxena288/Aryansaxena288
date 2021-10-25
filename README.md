@@ -33,7 +33,7 @@
 
 [![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryansaxena288&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true)](https://github.com/Aryansaxena288/Sketchmaking)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansaxena288&layout=compact&show_icons=true&theme=algolia&hide_border=true)](https://github.com/Aryansaxena288/Sketchmaking)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryansaxena288&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryansaxena288&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub followers](https://img.shields.io/github/followers/Aryansaxena288?style=social)![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Aryansaxena288/Sketchmaking/main)
 ### You can connect with me from **_here_** 📧:
