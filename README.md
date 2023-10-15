@@ -90,15 +90,9 @@ One of my current areas of interest lies in Predictive Astrology, where I explor
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/workholic_1?ext=heatmap)
 
-<br/>  
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aryansaxena288&theme=nightowl"/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Aryansaxena288&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
