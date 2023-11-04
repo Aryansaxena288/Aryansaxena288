@@ -88,7 +88,6 @@ One of my current areas of interest lies in Predictive Astrology, where I explor
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryansaxena288&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/workholic_1?ext=heatmap)
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aryansaxena288&theme=nightowl"/>
 
